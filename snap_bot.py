@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot Token (tomar BotFather theke niye nao)
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8776822620:AAH0yFJXsgRlYOs06QSveq79tzEA5DpeDMM"
 
 # Snapchat API (unofficial)
 SNAPCHAT_API_URL = "https://snapchatapi.com/api/v1"
